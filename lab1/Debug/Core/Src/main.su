@@ -1,0 +1,10 @@
+../Core/Src/main.c:111:7:drawPoint0	24	static
+../Core/Src/main.c:73:5:main	24	static
+../Core/Src/main.c:128:7:drawPoint1	24	static
+../Core/Src/main.c:145:7:drawPoint2	24	static
+../Core/Src/main.c:161:7:drawPoint3	24	static
+../Core/Src/main.c:178:7:drawPoint	24	static
+../Core/Src/main.c:193:7:drawSquare_edge	48	static
+../Core/Src/main.c:214:7:drawSquare	32	static
+../Core/Src/main.c:319:6:SystemClock_Config	88	static
+../Core/Src/main.c:369:6:Error_Handler	4	static,ignoring_inline_asm

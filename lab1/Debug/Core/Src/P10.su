@@ -1,0 +1,15 @@
+../Core/Src/P10.c:3:14:drawPixel	32	static
+../Core/Src/P10.c:27:14:erasePixel	32	static
+../Core/Src/P10.c:46:14:invertPixel	32	static
+../Core/Src/P10.c:64:14:drawPixels	32	static
+../Core/Src/P10.c:82:14:erasePixels	32	static
+../Core/Src/P10.c:100:14:invertPixels	32	static
+../Core/Src/P10.c:118:14:drawRect	48	static
+../Core/Src/P10.c:177:14:eraseRect	48	static
+../Core/Src/P10.c:236:14:invertRect	48	static
+../Core/Src/P10.c:295:14:drawLine	72	static
+../Core/Src/P10.c:398:14:eraseLine	72	static
+../Core/Src/P10.c:501:14:invertLine	72	static
+../Core/Src/P10.c:604:14:checkPixelData	24	static
+../Core/Src/P10.c:631:6:clearScreen	24	static
+../Core/Src/P10.c:638:6:fillScreen	24	static

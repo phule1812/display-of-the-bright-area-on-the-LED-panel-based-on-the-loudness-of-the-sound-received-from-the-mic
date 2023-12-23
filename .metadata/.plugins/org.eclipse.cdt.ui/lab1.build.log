@@ -1,0 +1,16 @@
+14:49:53 **** Incremental Build of configuration Debug for project lab1 ****
+make -j8 all 
+arm-none-eabi-gcc -o "lab1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Phu Le\Desktop\lB1_LED\lab1\STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: lab1.elf
+ 
+arm-none-eabi-size   lab1.elf 
+arm-none-eabi-objdump -h -S  lab1.elf  > "lab1.list"
+   text	   data	    bss	    dec	    hex	filename
+  15332	     24	   1920	  17276	   437c	lab1.elf
+Finished building: default.size.stdout
+ 
+Finished building: lab1.list
+ 
+
+14:49:53 Build Finished. 0 errors, 0 warnings. (took 833ms)
+
