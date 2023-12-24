@@ -66,4 +66,4 @@ SPI — последовательный синхронный стандарт �
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.discordapp.net/attachments/1033680304692539505/1188555007054844034/image.png?ex=659af31b&is=65887e1b&hm=a17a064dcc69c50fc89674e7c5c0a322e96c702fc91184d1dfe219a469bcad67&=&format=webp&quality=lossless&width=768&height=354)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.discordapp.net/attachments/1033680304692539505/1188556364658786445/ezgif.com-video-to-gif-converted.gif?ex=659af45f&is=65887f5f&hm=49710d7646f326ac1d1b695efdacf21d7e15be410200264e1388cda491e19fcc&=)
+![color picker](https://i.imgur.com/HEypAjE.gif)
