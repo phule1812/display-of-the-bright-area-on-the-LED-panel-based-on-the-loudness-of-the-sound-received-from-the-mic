@@ -47,3 +47,6 @@ SPI — последовательный синхронный стандарт �
 Повторяем пункты 1-5 с постоянным периодом.
 
 ## 3. Настрйока микроконтроллера STM32
+
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.discordapp.net/attachments/1033680304692539505/1188547149210861668/OdKleh5M0yo.png?ex=659aebca&is=658876ca&hm=162e69591f935073c35f958be0b5c2dffaec6dfdddce8f4cee154030715d9b56&=&format=webp&quality=lossless&width=514&height=468)
