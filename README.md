@@ -24,6 +24,7 @@ SPI — последовательный синхронный стандарт �
 ## 2. Светодиодный модуль P10
 Изображение светодиодного модуля P10 показано на рисунке ниже.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://led-ekb.ru/image/cache/data/moduli/P10_Single_Outdoor_Module-600x750.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://habrastorage.org/r/w1560/files/4ee/b75/b14/4eeb75b1445b4b3893f7a8c4d4afeefe.jpg)
 
 Принципиальная схема работы светодиодной панели представлена ​​на рисунке ниже.
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://habrastorage.org/files/67b/bb8/862/67bbb8862780441586c79c3825618402.gif)
